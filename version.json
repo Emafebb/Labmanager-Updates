@@ -1,6 +1,6 @@
 {
-  "version": "0.0.4",
-  "description": "• Sistema aggiornamento automatico in-app\n• Badge notifiche aggiornamenti\n• Sezione aggiornamenti nelle impostazioni",
+  "version": "0.0.1",
+  "description": "• Sistema aggiornamento automatico in-app (TEST)\n• Badge notifiche aggiornamenti\n• Sezione aggiornamenti nelle impostazioni",
   "windows_download_url": "https://github.com/Emafebb/Labmanager-Updates/raw/main/LabManager.exe",
   "is_mandatory": false,
   "release_date": "2025-10-19"
