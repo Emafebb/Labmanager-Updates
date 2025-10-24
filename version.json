@@ -1,7 +1,7 @@
 ﻿{
     "windows_download_url":  "https://github.com/Emafebb/Labmanager-Updates/raw/main/LabManager.exe",
-    "description":  "• Primo Rilascio",
+    "description":  "• Aggiunta funzionalità",
     "version":  "0.0.1",
-    "release_date":  "2025-10-23",
+    "release_date":  "2025-10-24",
     "is_mandatory":  false
 }
