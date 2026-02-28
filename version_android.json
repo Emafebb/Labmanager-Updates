@@ -1,8 +1,8 @@
 {
-  "version": "0.0.1",
-  "description": "• Prima release Android",
+  "version": "0.0.4",
+  "description": "• Test aggiornamento in-app Android\n• Verifica SHA256 e installer",
   "download_url": "https://ndlsifytatricfutjsvu.supabase.co/storage/v1/object/public/releases_apk/labmanager.apk",
-  "sha256": "",
+  "sha256": "a7b2d06f6a7733db2fe10ced2d7baf74d7d21a9c2c3832b3a82a5c3a4185589c",
   "is_mandatory": false,
-  "release_date": "2026-02-26"
+  "release_date": "2026-02-28"
 }
