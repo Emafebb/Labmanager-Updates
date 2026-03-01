@@ -1,8 +1,8 @@
 {
-  "version": "0.0.3",
-  "description": "• Test aggiornamento in-app Android\n• Verifica SHA256 e installer",
-  "download_url": "https://ndlsifytatricfutjsvu.supabase.co/storage/v1/object/public/releases_apk/labmanager.apk",
-  "sha256": "BE32D93F065D9A50F2E65282B4F1F851AF847604809179155A13E6DAE12300DD",
-  "is_mandatory": false,
-  "release_date": "2026-02-28"
+    "version":  "0.0.4",
+    "description":  "https://pastrylabmanager.com/aggiornamenti",
+    "download_url":  "https://ndlsifytatricfutjsvu.supabase.co/storage/v1/object/public/releases_apk/labmanager.apk",
+    "sha256":  "68f6d6d2e77b253e48e542b502a6cb93a4cbfe99aa33ba0191b462d9c4fcd65b",
+    "is_mandatory":  false,
+    "release_date":  "2026-03-01"
 }
