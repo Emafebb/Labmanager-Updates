@@ -1,8 +1,8 @@
 {
-    "version":  "0.0.7",
+    "version":  "0.0.8",
     "description":  "https://pastrylabmanager.com/aggiornamenti",
-    "download_url":  "https://labmanager-downloads.labmanager-info.workers.dev/android/v0.0.7/labmanager.apk",
-    "sha256":  "76aed1addf27c7a523f7360290baa772e88d6ba559f70a573c465fbf12f77295",
+    "download_url":  "https://labmanager-downloads.labmanager-info.workers.dev/android/v0.0.8/labmanager.apk",
+    "sha256":  "b0adbae631d8b2abf09f8af9b5a89333ada14428cc0cce1b23e4701a91b5413d",
     "is_mandatory":  false,
-    "release_date":  "2026-04-29"
+    "release_date":  "2026-05-15"
 }
