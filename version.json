@@ -1,8 +1,8 @@
 {
-    "version":  "0.0.8",
+    "version":  "0.0.9",
     "description":  "https://pastrylabmanager.com/aggiornamenti",
-    "windows_download_url":  "https://labmanager-downloads.labmanager-info.workers.dev/windows/v0.0.8/LabManager.exe",
-    "sha256":  "7b0c002d6355052fe1db0245696cf4f9d48f0da45201bcbf09ae08f4ab8e0678",
+    "windows_download_url":  "https://labmanager-downloads.labmanager-info.workers.dev/windows/v0.0.9/LabManager.exe",
+    "sha256":  "edebec1d0aae7931d16d6045e504a4b1088ff1d7916c0f8d578d9cf89301f0f3",
     "is_mandatory":  false,
-    "release_date":  "2026-05-15"
+    "release_date":  "2026-06-04"
 }
